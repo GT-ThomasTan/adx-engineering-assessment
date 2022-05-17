@@ -73,5 +73,3 @@ For frontend, please build a web console that fulfills the following requirement
   - Using React routing
   - Using custom hook from React v16+
   - Mobile responsiveness
-
-
