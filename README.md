@@ -20,6 +20,23 @@ This console should support the following functions:
 
 ## Requirements
 ### Backend
+For backend, please build a web service that fulfills the following requirements:
+- Please use either Node.js or Python
+  - For Node.js, please use Express.js
+  - For Python, please use Flask or FastAPI
+- Use MongoDB
+  - Feel free to use any databse driver
+- Routes
+  - CRUD of user objects
+  - CRUD of book objects
+- You will be asked to explain and justify:
+  - How you structure your project
+  - How you design the APIs
+  - The implementation
+  - Scalability of your project
+- You are strongly encouraged to format and lint your code
+- Bonus points for:
+  - Maker checker rule for add/remove/update users: an admin changes to add/remove/update users will only be finalized after approved by another admin
 ### Frontend
 For frontend, please build a web console that fulfills the following requirements:
 - Please use React + Redux
@@ -42,11 +59,12 @@ For frontend, please build a web console that fulfills the following requirement
     - Use a suitable chart to demonstrate the breakdown of books by genre
     - Use a suitable chart to demonstrate the breakdown of books by year published
     - You can use any React chart libraries
-- You will be asked to explain and justify
+- You will be asked to explain and justify:
   - How you setup and design the Redux store
   - The project file structure
   - The implementation
   - Scalability of your project
+- You are strongly encouraged to format and lint your code
 - Bonus points for:
   - Using React routing
   - Using custom hook from React v16+
