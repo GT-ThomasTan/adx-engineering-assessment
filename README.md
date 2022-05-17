@@ -19,6 +19,7 @@ This console should support the following functions:
     - Author
     - Year Published
     - Status whether the book is available for borrowing
+    - User who last borrowed the book
   - Only Admin and Editor can add/remove/update books
   - All users can borrow/return books
 
@@ -31,8 +32,11 @@ For backend, please build a web service that fulfills the following requirements
 - Use MongoDB
   - Feel free to use any databse driver
 - Routes
-  - CRUD of user objects
-  - CRUD of book objects
+  - User Management
+    - CRUD of user objects
+  - Book Management
+    - CRUD of book objects
+    - Routes that allow user to borrow/return books
 - You will be asked to explain and justify:
   - How you structure your project
   - How you design the APIs
