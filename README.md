@@ -22,7 +22,7 @@ This console should support the following functions:
     - User who last borrowed the book
   - Only Admin and Editor can add/remove/update books
   - All users can borrow/return books
-  - There might be duplicates of same book
+  - There might be multiple copies of same book
 ## Requirements
 ### Backend
 For backend, please build a web service that fulfills the following requirements:
