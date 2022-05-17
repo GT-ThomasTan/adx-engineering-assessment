@@ -5,6 +5,10 @@ ABC Book is a book fan club. ABC Book allows its member to borrow books from the
 This console should support the following functions:
 - User Management
   - Only accessible to Admin and Editor
+  - Each user should contain the following details
+    - Name
+    - Role
+    - Date joined
   - Only Admin can add/remove/update users
 - Book Management
   - Accessible to all users
