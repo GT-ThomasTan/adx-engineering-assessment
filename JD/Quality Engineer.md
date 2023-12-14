@@ -1,5 +1,8 @@
-# Job Summary
-The Software Quality Engineer will provide experienced quality assurance support to the software development team, resolving bugs, defects, and other issues and ensuring the software product meets the required standards of quality, reliability, and performance. The job involves working closely with software developers, other testers, and project managers to identify, report, and address defects in software applications. 
+# About Us
+The Government Technology Agency (GovTech) aims to transform the delivery of Government digital services by taking an outside-in” view, putting citizens and businesses at the heart of everything we do. We also develop the Smart Nation infrastructure and applications, and facilitate collaboration with citizens and businesses to co-develop technologies. Join us as we support Singapore’s vision of building a Smart Nation - a nation of possibilities empowered through info-communications technology and related engineering.
+We’re looking for a MERN stack full-stack developer to help design and build our next-generation Chatbot Platform (VICA).
+VICA (Virtual Intelligent Chat Assistant) is GovTech’s next-generation Chatbot/Virtual Assistant/Conversational AI SaaS cloud platform. It will serve as the platform to enable the tech refresh of all 90+ existing Ask Jamie govt agency chatbots. VICA will also leverage Machine Learning/AI technologies to perform advanced analytics on chatbot content, to improve the citizen experience when interacting with govt agency chatbots.
+Projects will involve building chatbots and and chatbot platform front-end and back-end components, developing integrations with 3rd party components, and developing and consuming SOAP/REST web services.
 
 # Duties/Responsibilities
 - Designs test plans, test cases, and test scripts
