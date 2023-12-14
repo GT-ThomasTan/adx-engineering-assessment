@@ -43,4 +43,4 @@ Projects will involve building chatbots and and chatbot platform front-end and b
 - Working experience with Google Dialogflow is a bonus
 - Working experience with other Chatbots/ML/NLP is a bonus
 - Works well as part of a team in a fast-paced, startup-like environment
-Excellent communication and organizational skills
+- Excellent communication and organizational skills
