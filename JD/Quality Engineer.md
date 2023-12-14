@@ -4,7 +4,7 @@ We’re looking for a MERN stack full-stack developer to help design and build o
 VICA (Virtual Intelligent Chat Assistant) is GovTech’s next-generation Chatbot/Virtual Assistant/Conversational AI SaaS cloud platform. It will serve as the platform to enable the tech refresh of all 90+ existing Ask Jamie govt agency chatbots. VICA will also leverage Machine Learning/AI technologies to perform advanced analytics on chatbot content, to improve the citizen experience when interacting with govt agency chatbots.
 Projects will involve building chatbots and and chatbot platform front-end and back-end components, developing integrations with 3rd party components, and developing and consuming SOAP/REST web services.
 
-# Duties/Responsibilities
+# Role Responsibilities
 - Designs test plans, test cases, and test scripts
 - Ensures that software products meet the organizations and customers standards for functionality, reliability and performance.
 - Identifies and documents software defects and works with the team to prioritise and address them.
