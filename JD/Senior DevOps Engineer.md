@@ -19,20 +19,15 @@ The ADX program office functions as a cap-center that offers consulting services
 - Keeping informed of advancements in the field of DevSecOps.
 
 # Our Ideal Candidate
-- 5+ years of relevant experience
-- Expertise with JavaScript, TypeScript, Node.js, Express.js
-- Expertise with Python or Golang is a bonus
-- Expertise in back-end development
-- Expertise in various frontend frameworks, e.g. React.js, Storybook, MUI and etc
-- Expertise in architecting scalable and reliable cloud-based software solutions
-- Expertise with Python backend frameworks like FastAPI and Flask is a bonus
-- Expertise in web technologies like WebSocket or WebRTC is a bonus
-- Working experience with agile teams
-- Working experience in automated software testing
-- Working experience with cloud platforms such as Amazon AWS, Google Cloud Platform (GCP) or Microsoft Azure
-- Working experience developing and integrating with SOAP/REST APIs
-- Working experience with DevOps and CI/CD
-- Working experience with Google Dialogflow is a bonus
-- Working experience with other Chatbots/ML/NLP is a bonus
+- 5+ years of relevant experience.
+- Extensive experience with major cloud service providers (AWS, Azure, Google Cloud).
+- Proficiency with infrastructure as code (Terraform, CloudFormation, Ansible).
+- Strong scripting skills (Python, Bash, PowerShell).
+- Experience with containerization and orchestration (Docker, Kubernetes).
+- Solid understanding of CI/CD tools (Jenkins, GitLab CI, CircleCI).
+- Knowledge of monitoring and logging tools (Prometheus, Grafana, ELK stack).
+- Success seeker mindset, always aiming for the highest standards and continuous improvement.
+- Strong problem-solving skills and the ability to think on your feet.
+- Excellent communication, collaboration and organizational skills.
+- A proactive and driven attitude with a passion for continuous learning.
 - Works well as part of a team in a fast-paced, startup-like environment
-- Excellent communication and organizational skills
