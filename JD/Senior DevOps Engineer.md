@@ -7,23 +7,16 @@ The Alliance for Digital Transformation (ADX) program office’s mission is to e
 The ADX program office functions as a cap-center that offers consulting services in product management, design and software development to government agencies. By doing so, ADX builds up the digital competency of its partners on a sustainable basis and a vibrant ecosystem of exchange among the ADX program members.
 
 # Role Responsibilities
-- Developing and maintaining server-side network components.
-- Ensuring optimal performance of the central database and responsiveness to front-end requests.
-- Collaborating with front-end developers on the integration of elements.
-- Designing back-end services for various business processes.
-- Developing and maintaining client-side frontend components.
-- Collaborating with product owners, designers and other developers on the integration of elements.
-- Developing high-performance applications by writing testable, reusable, and efficient code.
-- Implementing effective security protocols, data protection measures, and storage solutions.
-- Running diagnostic tests, repairing defects, and providing technical support.
-- Documenting Node.js processes, including database schemas, as well as preparing reports.
-- Recommending and implementing improvements to processes and technologies.
-- Keeping informed of advancements in the field of Node.js development.
-- Keeping informed of advancements in the field of JavaScript frontend development, especially React, Redux and etc
-- Our technology stack is based on MERN (MongoDB, Express, React, Node.js), with Python for our ML components
-    - We use Kubernetes and Docker for CI/C
-    - REST APIs
-    - Infrastructure running on Cloud (AWS)
+- Design, implement, and manage scalable, robust, and secure CI/CD pipelines.
+- Automate and streamline operations and processes.
+- Work closely with development, QA, and operations teams to ensure the delivery of high-quality software.
+- Monitor system performance, identify issues, and implement fixes.
+- Advocate for and implement best DevOps practices in DevOps.
+- Mentor and train junior DevOps engineers.
+- Evaluate and integrate new tools and technologies to improve efficiency and performance.
+- Ensure security and compliance standards are met across all systems and processes.
+- Lead and participate in technical discussions, architecture reviews, and code reviews.
+- Keeping informed of advancements in the field of DevSecOps.
 
 # Our Ideal Candidate
 - 5+ years of relevant experience
