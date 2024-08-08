@@ -9,7 +9,7 @@ The ADX program office functions as a cap-center that offers consulting services
 
 ## 2. Assessment Overview
 
-Depending on the role you are signing up for, you will be assessed on part or whole of the tech stack that we are using at VICA. Please select the assessment that is relevant to the role you are applying for.
+Depending on the role you are signing up for, you will be assessed on part or whole of the tech stack that we are using at ADX. Please select the assessment that is relevant to the role you are applying for.
 
 1. React frontend development
 2. Node.js/Python backend development
