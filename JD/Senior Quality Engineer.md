@@ -8,23 +8,35 @@ The ADX program office functions as a cap-center that offers consulting services
 
 # What you will be working on
 1. Client Engagement and Assessment
-  - Engage with our client RAiD to understand their business requirements and current quality assurance landscape.
-  - Conduct thorough assessments of RAiD's existing processes, identifying gaps and areas for improvement.
+- Engage with our client RAiD to understand their business requirements and current quality assurance landscape.
+- Conduct thorough assessments of RAiD's existing processes, identifying gaps and areas for improvement.
 2. Quality Assurance Framework Development
-  - Design and implement comprehensive quality assurance frameworks tailored to RAiD's specific needs
-  - Develop and document quality assurance processes, standards, and best practices.
-  - Ensure that all products can be efficiently and reliably tested to achieve quality standards and compliance to MINDEF/SAF requirements.
+- Design and implement comprehensive quality assurance frameworks tailored to RAiD's specific needs
+- Develop and document quality assurance processes, standards, and best practices.
+3. Process Implementation
+- Lead the implementation of quality assurance processes within RAiD.
+- Develop a robust plan and system to execute quality testing such as determining test objectives, assumptions, and hypotheses based on features to be tested and designed for compliance with MINDEF/SAF requirements.
+- Provide hands-on support and training to various products teams within RAiD to ensure successful adoption of new processes.
+- Plan, implement and sustain system to monitor QA health of all products in RAiD, and to generate reports to apprise leadership.
+- Continuously evaluate and refine processes to optimize efficiency and effectiveness.
+4. Collaboration and Communication
+- Work closely with various stakeholders, including product managers, developers, and business analysts, to ensure alignment on quality objectives.
+- Communication to CPO, SE Tech Lead, and other principal staff to report on quality assurance progress and address any issues.
+5. Quality Control and Testing
+- Oversee the development and execution of test plans, test cases, and test scripts.
+- Ensure that all products can be efficiently and reliably tested to achieve quality standards and compliance to MINDEF/SAF requirements.
+- Implement automated testing tools and frameworks where applicable.
+6. Continuous Improvement
+- Stay up-to-date with industry trends and best practices in quality assurance.
+- Lead initiatives to continuously improve quality assurance processes and methodologies.
+- Research and keep abreast of latest QA practices, techniques and technologies to bring aboard relevant items to QA if required.
+- Mentor and coach junior engineers, fostering a culture of quality within the team.
 
+# What we are looking for
+- Minimum 5 years' experience in application exploratory testing and regression test automation, application performance testing, and/or application security testing 
+- Proven experience in developing and implementing quality assurance frameworks and processes from scratch.
+- Strong understanding of software development life cycle (SDLC) and agile methodologies.
 
-- Designs test plans, test cases, and test scripts
-- Ensures that software products meet the organizations and customers standards for functionality, reliability and performance.
-- Identifies and documents software defects and works with the team to prioritise and address them.
-- Supports the software development and operations team throughout the development cycle by providing analysis and expertise.
-- Develops and maintains automated test scripts for continuous testing and integration.
-- Conducts regression testing to ensure that software changes do not introduce new defects or issues.
-- Stays up-to-date with industry trends and best practices in software quality assurance and incorporating them into the development process..
-
-# Required Skills/Abilities 
 - Excellent organizational skills and attention to detail.
 - Good understanding of software testing methodology, including functional and non-functional testing and test techniques. 
 - Experienced in agile or scrum development methodology.
