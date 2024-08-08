@@ -8,11 +8,11 @@ The ADX program office functions as a cap-center that offers consulting services
 
 # What you will be working on
 1. Client Engagement and Assessment
-- Engage with our client RAiD to understand their business requirements and current quality assurance landscape.
-- Conduct thorough assessments of RAiD's existing processes, identifying gaps and areas for improvement.
+  - Engage with our client RAiD to understand their business requirements and current quality assurance landscape.
+  - Conduct thorough assessments of RAiD's existing processes, identifying gaps and areas for improvement.
 2. Quality Assurance Framework Development
-- Design and implement comprehensive quality assurance frameworks tailored to RAiD's specific needs
-- Develop and document quality assurance processes, standards, and best practices.
+  - Design and implement comprehensive quality assurance frameworks tailored to RAiD's specific needs
+  - Develop and document quality assurance processes, standards, and best practices.
   - Ensure that all products can be efficiently and reliably tested to achieve quality standards and compliance to MINDEF/SAF requirements.
 
 
