@@ -1,10 +1,11 @@
-# VICA Engineering Assessment
+# ADX Engineering Assessment
 
-Division: Moments of Life (MOL) | Team: Virtual Intelligent Chat Assistant (VICA)
+Division: Alliance for Digital Transformation (ADX)
 
 ## 1. Team Overview
 
-At VICA, we are developing a new platform for agencies to onboard a wave of new virtual assistants for government services. This platform will eventually replace all “Ask Jamie” chatbots and enable the agencies to onboard and collaborate effectively on it, so that they can keep up with the questions by the citizens and businesses in the long term.
+The Alliance for Digital Transformation (ADX) program office’s mission is to empower government agencies in its digital transformation journey through technology and engineering. 
+The ADX program office functions as a cap-center that offers consulting services in product management, design and software development to government agencies. By doing so, ADX builds up the digital competency of its partners on a sustainable basis and a vibrant ecosystem of exchange among the ADX program members.
 
 ## 2. Assessment Overview
 
