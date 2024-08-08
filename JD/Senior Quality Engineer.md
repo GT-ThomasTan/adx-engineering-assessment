@@ -36,15 +36,11 @@ The ADX program office functions as a cap-center that offers consulting services
 - Minimum 5 years' experience in application exploratory testing and regression test automation, application performance testing, and/or application security testing 
 - Proven experience in developing and implementing quality assurance frameworks and processes from scratch.
 - Strong understanding of software development life cycle (SDLC) and agile methodologies.
-
-- Excellent organizational skills and attention to detail.
-- Good understanding of software testing methodology, including functional and non-functional testing and test techniques. 
-- Experienced in agile or scrum development methodology.
-- Experienced in automation testing tools/framework e.g. Selenium.
-- Good team player with good communication skills.
-- Self-driven and independent.
-- Testing certifications such as ISTQB or other relevant certification would be advantageous. 
-
-# Education and Experience
-- Bachelor’s degree in related discipline required.
-- At least 5 years of related experience required.
+- Experience in various testing frameworks in MERN/PERN tech stack, e.g. Jest, Mocha.
+- Experience with open source automated testing frameworks, like Robot Framework, Appium, Selenium, Puppeteer or enterprise level testing tools (Micro Focus Mobile Center, Micro Focus UFT or Micro Focus ALM).
+- Experience with open source performance testing tools like JMeter, Locust, Gatling or enterprise level testing tools (Micro Focus LoadRunner).
+- Experience with open source security testing tools like ZAP, Burp Suite, SQL Map, Clair, etc or enterprise level security testing tools (Micro Focus SCA/WebInspect, Veracode, Nessus or CheckMarx).
+- Relevant certifications (e.g., ISTQB, Six Sigma) are a plus.
+- Strong communication and interpersonal skills, with the ability to work effectively with clients and cross-functional teams.
+- Excellent problem-solving and analytical skills.
+- Able to work independently and self driven.
