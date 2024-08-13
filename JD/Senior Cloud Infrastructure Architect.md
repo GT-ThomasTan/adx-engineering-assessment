@@ -19,8 +19,8 @@ The ADX program office functions as a cap-center that offers consulting services
 - Graduate Degree in engineering/computing.
 - Minimum 7 years of design/implementation/consulting experience with distributed applications - minimum of 3 years hands-on experience as a technical lead and system architect (i.e. system design, performance tuning, and system prototyping & maintenance)
 - Solid software development background and multiple industry certifications (e.g. TOGAF, Agile).
-- Experience in designing and implementing J2EE applications with data modelling and SQL skills.
-- Solid understanding of Server-side, Java development, Microservices, Service Oriented Architectures (SOA), web services, RESTful API and public web sites / digital services development
+- Experience in designing and implementing MERN, PERN and/or J2EE applications with data modelling and SQL skills.
+- Solid understanding of Server-side, Node.js and/or Java development, Microservices, Service Oriented Architectures (SOA), web services, RESTful API and public web sites / digital services development
 - Extensive experience in designing, developing and deploying large, scalable production applications on cloud/PaaS platforms and Containers, such as AWS, Azure and OpenShift
 - Solid understanding of DevOps software development tools and methodologies
 - Able to independently analyse and identify comprehensive solutions considering all functional implications while developing a workable solution
