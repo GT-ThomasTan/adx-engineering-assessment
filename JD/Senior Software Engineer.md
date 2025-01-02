@@ -19,7 +19,7 @@ As a Senior Software Engineer, you will play a critical role in designing, devel
 
 # Our Ideal Candidate
 We’re looking for a passionate and experienced engineer who thrives in a collaborative environment and is excited about solving complex problems. The ideal candidate will have:
-- 10+ years of professional experience in software development with expertise in Node.js or Java.
+- 7+ years of professional experience in software development with expertise in Node.js or Java.
 - Proficiency in backend development and database design, e.g. Express.js, PostgreSQL, MongoDB and etc.
 - Expertise in various frontend frameworks, e.g. React.js, Storybook, MUI and etc.
 - Proficiency in cloud technologies, e.g. AWS Lambda, Amazon S3 and etc.
