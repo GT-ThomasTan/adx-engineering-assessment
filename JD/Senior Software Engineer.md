@@ -7,19 +7,19 @@ The Alliance for Digital Transformation (ADX) program office’s mission is to e
 The ADX program office functions as a cap-center that offers consulting services in product management, design and software development to government agencies. By doing so, ADX builds up the digital competency of its partners on a sustainable basis and a vibrant ecosystem of exchange among the ADX program members.
 
 # Role & Responsibilities
-- Developing and maintaining client-side frontend components.
-- Collaborating with product owners, designers and other developers on the integration of elements.
-- Developing high-performance applications by writing testable, reusable, and efficient code.
-- Running diagnostic tests, repairing defects, and providing technical support.
-- Recommending and implementing improvements to processes and technologies.
-- Keeping informed of advancements in the field of JavaScript frontend development, especially React, Redux and etc
-- Our technology stack is based on MERN (MongoDB, Express, React, Node.js), with Python for our ML components
-    - We use Kubernetes and Docker for CI/C
-    - REST APIs
-    - Infrastructure running on Cloud (AWS)
+As a Senior Software Engineer, you will play a critical role in designing, developing, and deploying scalable, high-performance software solutions. You will work closely with cross-functional teams, contributing your expertise to ensure the successful delivery of technical projects. Your responsibilities include:
+- Designing, developing, and maintaining robust, scalable, and secure software applications.
+- Collaborating with product managers, designers, and other stakeholders to understand requirements and translate them into technical solutions.
+- Driving the full software development lifecycle, including coding, testing, deployment, and monitoring.
+- Ensuring the delivery of high-quality code through code reviews, testing strategies, and adherence to best practices.
+- Mentoring junior engineers and fostering a culture of knowledge sharing and technical excellence.
+- Identifying and resolving performance bottlenecks, scalability issues, and architectural challenges.
+- Staying updated with emerging technologies and trends to bring innovative solutions to the team.
+- Contributing to the technical vision and ensuring alignment with the company’s overall goals.
 
 # Our Ideal Candidate
-- 10+ years of relevant experience
+We’re looking for a passionate and experienced engineer who thrives in a collaborative environment and is excited about solving complex problems. The ideal candidate will have:
+- 10+ years of professional experience in software development with expertise in Node.js or Java.
 - Expertise with JavaScript, TypeScript
 - Expertise in various frontend frameworks, e.g. React.js, Storybook, MUI and etc
 - Expertise in web technologies like WebSocket or WebRTC is a bonus
