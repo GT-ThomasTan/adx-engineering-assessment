@@ -20,14 +20,13 @@ As a Senior Software Engineer, you will play a critical role in designing, devel
 # Our Ideal Candidate
 We’re looking for a passionate and experienced engineer who thrives in a collaborative environment and is excited about solving complex problems. The ideal candidate will have:
 - 10+ years of professional experience in software development with expertise in Node.js or Java.
-- Expertise with JavaScript, TypeScript
-- Expertise in various frontend frameworks, e.g. React.js, Storybook, MUI and etc
-- Expertise in web technologies like WebSocket or WebRTC is a bonus
-- Working experience with agile teams
-- Working experience in automated software testing
-- Working experience with cloud platforms such as Amazon AWS, Google Cloud Platform (GCP) or Microsoft Azure
-- Working experience in integrating with SOAP/REST APIs
-- Working experience with Google Dialogflow is a bonus
-- Working experience with other Chatbots/ML/NLP is a bonus
-- Works well as part of a team in a fast-paced, startup-like environment
-- Excellent communication and organizational skills
+- Proficiency in backend development and database design, e.g. Express.js, PostgreSQL, MongoDB and etc.
+- Expertise in various frontend frameworks, e.g. React.js, Storybook, MUI and etc.
+- Proficiency in cloud technologies, e.g. AWS Lambda, Amazon S3 and etc.
+- Familiarity with DevOps practices and tools, e.g., CI/CD pipelines, Docker, Kubernetes.
+- Experience with MINDEF Commercial Cloud (MCC) will be a plus.
+- Strong analytical and debugging skills, with a proactive approach to identifying and resolving issues.
+- Excellent communication and teamwork skills, with experience working in Agile or Scrum environments.
+- A track record of mentoring team members and contributing to technical decision-making.
+- Eagerness to learn and adapt to new tools, frameworks, and methodologies as needed.
+- A genuine interest in creating innovative solutions and contributing to the company’s growth.
