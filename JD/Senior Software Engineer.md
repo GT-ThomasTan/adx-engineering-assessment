@@ -6,7 +6,7 @@ The Alliance for Digital Transformation (ADX) program office’s mission is to e
 
 The ADX program office functions as a cap-center that offers consulting services in product management, design and software development to government agencies. By doing so, ADX builds up the digital competency of its partners on a sustainable basis and a vibrant ecosystem of exchange among the ADX program members.
 
-# Role Responsibilities
+# Role & Responsibilities
 - Developing and maintaining client-side frontend components.
 - Collaborating with product owners, designers and other developers on the integration of elements.
 - Developing high-performance applications by writing testable, reusable, and efficient code.
